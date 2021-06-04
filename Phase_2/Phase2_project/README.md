@@ -49,16 +49,16 @@ Have fun!
 
 ## GitHub Repository
 
-├── README.md                                         <- The top-level README for reviewers of this project
-├── Kings_County_Housing_Version_2.ipynb              <- Main Analysis Includes: Inference & Prediction Models
-├── Predict_holdout.ipynb											        <- Main Notebook for final predictions
-├── housing_preds_jason_arikupurathu.csv							<- CSV for final predictions generated from Predict_holdout
-├── data                                              <- Both sourced externally
-		└ kc_house_data_test_features.csv												<- Test set csv
-		└ kc_house_data_train.csv 															<- Train set csv
+├── README.md                                         	<- The top-level README for reviewers of this project
+├── Kings_County_Housing_Version_2.ipynb              	<- Main Analysis Includes: Inference & Prediction Models
+├── Predict_holdout.ipynb				<- Main Notebook for final predictions
+├── housing_preds_jason_arikupurathu.csv		<- CSV for final predictions generated from Predict_holdout
+├── data                                              	<- Both sourced externally
+	└ kc_house_data_test_features.csv			<- Test set csv
+	└ kc_house_data_train.csv 				<- Train set csv
 ├── notes                                             <- Contains old notebooks and project guidelines
 ├── presentation-slides                               <- Contains presentation slides
-		└ Slides-KCH-Analysis-Inference.pdf               			<- Presentation Slides
+	└ Slides-KCH-Analysis-Inference.pdf             	<- Presentation Slides
 └── pickled_files                                     <- Contains Pickled Files
-		└ model.pickle                                     			<- Model pickled
-		└ other_info.pickle 																		<- Information to be passed pickled
+	└ model.pickle                                  	<- Model pickled
+	└ other_info.pickle 					<- Information to be passed pickled
